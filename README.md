@@ -1,2 +1,0 @@
-# discrete
-discrete labs
